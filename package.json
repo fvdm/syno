@@ -42,7 +42,7 @@
     "syno": "bin/syno.js"
   },
   "dependencies": {
-    "lodash": "^3.1.0",
+    "lodash": "^4.17.19",
     "request": "^2.48.0",
     "commander": "^2.6.0",
     "nconf": "^0.7.1",
